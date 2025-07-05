@@ -60,9 +60,9 @@ To help me learn in this way I have taken the above references and put them as s
 <br/> 
 <br/> STEP 4: Gather documents and data to go into the RAG pipeline for the LLM to draw from.
 <br/> 
-<br/> STEP 5: Chunk the documents/data/reference material
+<br/> STEP 5: Chunk the documents/data/reference material (Do we tokenize first? Or can we chunk it without tokenizing?)
 <br/> 
-<br/> STEP 6: Embed it or give it an Embedding (give it a numerical representation that allows it to sit in 3D space inside of a Vector data base
+<br/> STEP 6: Embed it (or give it an Embedding? dont know the correct terminology) (give it a numerical representation that allows it to sit in 3D space inside of a Vector data base
 <br/> 
 <br/> STEP 7: Build the vector database of Embeddings
 <br/> 
